@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(188, 12, 12);
+  text-align: center;
+  font-family: sans-serif;
+}
+
+table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.column {
+  flex: 33.33%;
+  padding: 33.33px;
+  text-align: center;
+}
+body {
+  font-family: "Metropolis", sans-serif;
+}
