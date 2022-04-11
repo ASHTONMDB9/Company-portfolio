@@ -1,0 +1,84 @@
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.start {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.journey {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.business {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.stonks {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.a {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.b {
+  width: 40%;
+}
+
+.c {
+  width: 40%;
+}
+
+.d {
+  width: 30%;
+}
+
+.e {
+  width: 30%;
+}
+
+.f {
+  width: 30%;
+}
+
+.g {
+  width: 30%;
+}
+
+.h {
+  width: 30%;
+}
+
+.i {
+  width: 30%;
+}
